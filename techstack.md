@@ -1,7 +1,8 @@
 <!--
---- Readme.md Snippet without images Start ---
+&lt;--- Readme.md Snippet without images Start ---&gt;
 ## Tech Stack
 steveny2k/generator-jhipster is built on the following main stack:
+
 - [Jest](http://facebook.github.io/jest/) – Javascript Testing Framework
 - [Mocha](http://mochajs.org/) – Javascript Testing Framework
 - [Elasticsearch](https://www.elastic.co/products/elasticsearch) – Search as a Service
@@ -47,11 +48,13 @@ steveny2k/generator-jhipster is built on the following main stack:
 - [Docker](https://www.docker.com/) – Virtual Machine Platforms & Containers
 
 Full tech stack [here](/techstack.md)
---- Readme.md Snippet without images End ---
 
---- Readme.md Snippet with images Start ---
+&lt;--- Readme.md Snippet without images End ---&gt;
+
+&lt;--- Readme.md Snippet with images Start ---&gt;
 ## Tech Stack
 steveny2k/generator-jhipster is built on the following main stack:
+
 - <img width='25' height='25' src='https://img.stackshare.io/service/830/jest.png' alt='Jest'/> [Jest](http://facebook.github.io/jest/) – Javascript Testing Framework
 - <img width='25' height='25' src='https://img.stackshare.io/service/832/mocha.png' alt='Mocha'/> [Mocha](http://mochajs.org/) – Javascript Testing Framework
 - <img width='25' height='25' src='https://img.stackshare.io/service/841/Image_2019-05-20_at_4.58.04_PM.png' alt='Elasticsearch'/> [Elasticsearch](https://www.elastic.co/products/elasticsearch) – Search as a Service
@@ -97,14 +100,15 @@ steveny2k/generator-jhipster is built on the following main stack:
 - <img width='25' height='25' src='https://img.stackshare.io/service/586/n4u37v9t_400x400.png' alt='Docker'/> [Docker](https://www.docker.com/) – Virtual Machine Platforms & Containers
 
 Full tech stack [here](/techstack.md)
---- Readme.md Snippet with images End ---
+
+&lt;--- Readme.md Snippet with images End ---&gt;
 -->
 <div align="center">
 
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [steveny2k/generator-jhipster](https://github.com/steveny2k/generator-jhipster)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|182<br/>Tools used|11/10/23 <br/>Report generated|
+|185<br/>Tools used|01/05/24 <br/>Report generated|
 |------|------|
 </div>
 
@@ -550,9 +554,9 @@ Full tech stack [here](/techstack.md)
 </table>
 
 
-## <img src='https://img.stackshare.io/group.svg' /> Open source packages (131)</h2>
+## <img src='https://img.stackshare.io/group.svg' /> Open source packages (134)</h2>
 
-## <img width='24' height='24' src='https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png'/> npm (131)
+## <img width='24' height='24' src='https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png'/> npm (134)
 
 |NAME|VERSION|LAST UPDATED|LAST UPDATED BY|LICENSE|VULNERABILITIES|
 |:------|:------|:------|:------|:------|:------|
@@ -590,6 +594,7 @@ Full tech stack [here](/techstack.md)
 |[browser-sync](https://www.npmjs.com/browser-sync)|v2.26.14|01/25/21|dependabot[bot] |Apache-2.0|N/A|
 |[browser-sync-webpack-plugin](https://www.npmjs.com/browser-sync-webpack-plugin)|v2.3.0|03/25/21|dependabot[bot] |MIT|N/A|
 |[cache-loader](https://www.npmjs.com/cache-loader)|v4.1.0|03/25/21|dependabot[bot] |MIT|N/A|
+|[chalk](https://www.npmjs.com/chalk)|v2.4.2|01/19/21|Sudharaka Palamakumbura |MIT|N/A|
 |[commander](https://www.npmjs.com/commander)|v7.2.0|03/22/21|dependabot[bot] |MIT|N/A|
 |[concurrently](https://www.npmjs.com/concurrently)|v6.0.0|02/20/21|dependabot[bot] |MIT|N/A|
 |[conf](https://www.npmjs.com/conf)|v9.0.2|03/01/21|dependabot[bot] |MIT|N/A|
@@ -615,11 +620,13 @@ Full tech stack [here](/techstack.md)
 |[glob](https://www.npmjs.com/glob)|v7.1.6|01/19/21|Sudharaka Palamakumbura |ISC|N/A|
 |[gulp-filter](https://www.npmjs.com/gulp-filter)|v6.0.0|01/19/21|Sudharaka Palamakumbura |MIT|N/A|
 |[html-webpack-plugin](https://www.npmjs.com/html-webpack-plugin)|v5.3.1|03/25/21|dependabot[bot] |MIT|N/A|
+|[husky](https://www.npmjs.com/husky)|v4.3.8|02/19/21|Pierre Besson |MIT|N/A|
 |[identity-obj-proxy](https://www.npmjs.com/identity-obj-proxy)|v3.0.0|03/25/21|dependabot[bot] |MIT|N/A|
 |[jest-junit](https://www.npmjs.com/jest-junit)|v12.0.0|03/26/21|dependabot[bot] |Apache-2.0|N/A|
 |[jest-serializer-vue](https://www.npmjs.com/jest-serializer-vue)|v2.0.2|03/26/21|dependabot[bot] |MIT|N/A|
 |[js-yaml](https://www.npmjs.com/js-yaml)|v3.14.1|01/19/21|Sudharaka Palamakumbura |MIT|N/A|
 |[json-loader](https://www.npmjs.com/json-loader)|v0.5.7|03/25/21|dependabot[bot] |MIT|N/A|
+|[lint-staged](https://www.npmjs.com/lint-staged)|v10.5.4|03/24/21|Marcelo Boveto Shima |MIT|N/A|
 |[mini-css-extract-plugin](https://www.npmjs.com/mini-css-extract-plugin)|v1.3.9|03/25/21|dependabot[bot] |MIT|N/A|
 |[minimatch](https://www.npmjs.com/minimatch)|v3.0.4|01/19/21|Sudharaka Palamakumbura |ISC|[CVE-2022-3517](https://github.com/advisories/GHSA-f8q6-p94x-37v3) (High)|
 |[node-notifier](https://www.npmjs.com/node-notifier)|v9.0.1|03/26/21|dependabot[bot] |MIT|N/A|
@@ -691,4 +698,4 @@ Full tech stack [here](/techstack.md)
 <br/>
 <div align='center'>
 
-Generated via [Stack File](https://github.com/apps/stack-file)
+Generated via [Stack File](https://github.com/marketplace/stack-file)
